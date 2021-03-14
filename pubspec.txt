@@ -1,8 +1,0 @@
-cupertino_icons: ^0.1.3
-http: ^0.12.1
-flutter_secure_storage: ^3.3.3
-font_awesome_flutter: ^8.8.1
-awesome_page_transitions: ^1.0.0
-awesome_dialog: ^0.1.4
-email_validator: ^1.0.4
-scratcher: ^1.3.0
